@@ -6,7 +6,7 @@ import {
   FETCH_MOVIES_FAILURE,
 } from "./actionTypes";
 
-const BASE_URL = `https://cloud-inn-be-1.onrender.com`;
+const BASE_URL = `https://cloud-innovation-be-ojoi.onrender.com`;
 // Adjust the base URL as necessary
 
 export const fetchMovies =

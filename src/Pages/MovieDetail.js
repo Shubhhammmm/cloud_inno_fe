@@ -5,7 +5,7 @@ import axios from 'axios';
 import "./MovieDetail.css"
 
 const MovieDetail = () => {
-    const BASE_URL = `https://cloud-inn-be-1.onrender.com`;
+    const BASE_URL = `https://cloud-innovation-be-ojoi.onrender.com`;
 
   const { id } = useParams();
   const [movie, setMovie] = useState(null);
